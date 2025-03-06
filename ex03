@@ -1,3 +1,7 @@
+'''
+arquivo = open('Saldo.txt', 'a') <-- Abra o Arquivo para o código funcionar
+arquivo.close()
+'''
 res = ''
 while res != '3':
     print('=-=-=-=-=Banco Do Cedup=-=-=-=-=')
